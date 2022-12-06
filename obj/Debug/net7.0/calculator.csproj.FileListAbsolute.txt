@@ -1,0 +1,15 @@
+/home/scurvyy/dev/dotnet/calculator/bin/Debug/net7.0/calculator
+/home/scurvyy/dev/dotnet/calculator/bin/Debug/net7.0/calculator.deps.json
+/home/scurvyy/dev/dotnet/calculator/bin/Debug/net7.0/calculator.runtimeconfig.json
+/home/scurvyy/dev/dotnet/calculator/bin/Debug/net7.0/calculator.dll
+/home/scurvyy/dev/dotnet/calculator/bin/Debug/net7.0/calculator.pdb
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.csproj.AssemblyReference.cache
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.AssemblyInfoInputs.cache
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.AssemblyInfo.cs
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.csproj.CoreCompileInputs.cache
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.dll
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/refint/calculator.dll
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.pdb
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/calculator.genruntimeconfig.cache
+/home/scurvyy/dev/dotnet/calculator/obj/Debug/net7.0/ref/calculator.dll
